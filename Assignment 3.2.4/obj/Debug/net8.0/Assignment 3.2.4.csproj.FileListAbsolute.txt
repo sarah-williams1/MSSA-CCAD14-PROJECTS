@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\bin\Debug\net8.0\Assignment 3.2.4.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\bin\Debug\net8.0\Assignment 3.2.4.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\bin\Debug\net8.0\Assignment 3.2.4.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\bin\Debug\net8.0\Assignment 3.2.4.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\bin\Debug\net8.0\Assignment 3.2.4.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\refint\Assignment 3.2.4.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\Assignment 3.2.4.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.2.4\obj\Debug\net8.0\ref\Assignment 3.2.4.dll
