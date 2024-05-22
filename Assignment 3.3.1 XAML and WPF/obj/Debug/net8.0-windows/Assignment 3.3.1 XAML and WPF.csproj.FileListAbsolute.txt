@@ -1,0 +1,2 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.3.1 XAML and WPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 3.3.1 XAML and WPF\obj\Debug\net8.0-windows\Assignment 3.3.1 XAML and WPF_MarkupCompile.cache
