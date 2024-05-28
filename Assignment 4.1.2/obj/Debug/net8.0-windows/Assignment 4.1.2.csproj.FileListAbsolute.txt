@@ -1,0 +1,17 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment_4._1._2.CalculatorForm.resources
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.csproj.GenerateResource.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\bin\Debug\net8.0-windows\Assignment 4.1.2.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\bin\Debug\net8.0-windows\Assignment 4.1.2.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\bin\Debug\net8.0-windows\Assignment 4.1.2.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\bin\Debug\net8.0-windows\Assignment 4.1.2.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\bin\Debug\net8.0-windows\Assignment 4.1.2.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\refint\Assignment 4.1.2.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\Assignment 4.1.2.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 4.1.2\obj\Debug\net8.0-windows\ref\Assignment 4.1.2.dll
