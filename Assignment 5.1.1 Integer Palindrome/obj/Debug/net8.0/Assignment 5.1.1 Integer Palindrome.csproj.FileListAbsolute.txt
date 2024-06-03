@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\bin\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\bin\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\bin\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\bin\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\bin\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\refint\Assignment 5.1.1 Integer Palindrome.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\Assignment 5.1.1 Integer Palindrome.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.1.1 Integer Palindrome\obj\Debug\net8.0\ref\Assignment 5.1.1 Integer Palindrome.dll
