@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\bin\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\bin\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\bin\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\bin\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\bin\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\refint\Assignment 5.2.4 Palindrome Strings Via Recursion.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\Assignment 5.2.4 Palindrome Strings Via Recursion.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.2.4 Palindrome Strings Via Recursion\obj\Debug\net8.0\ref\Assignment 5.2.4 Palindrome Strings Via Recursion.dll
