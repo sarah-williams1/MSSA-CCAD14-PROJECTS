@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\bin\Debug\net8.0\Assignment 5.3.1 Flower Pots.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\bin\Debug\net8.0\Assignment 5.3.1 Flower Pots.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\bin\Debug\net8.0\Assignment 5.3.1 Flower Pots.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\bin\Debug\net8.0\Assignment 5.3.1 Flower Pots.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\bin\Debug\net8.0\Assignment 5.3.1 Flower Pots.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\refint\Assignment 5.3.1 Flower Pots.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\Assignment 5.3.1 Flower Pots.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 5.3.1 Flower Pots\obj\Debug\net8.0\ref\Assignment 5.3.1 Flower Pots.dll
