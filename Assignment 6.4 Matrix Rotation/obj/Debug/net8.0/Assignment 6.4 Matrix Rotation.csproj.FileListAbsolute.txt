@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\bin\Debug\net8.0\Assignment 6.4 Matrix Rotation.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\bin\Debug\net8.0\Assignment 6.4 Matrix Rotation.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\bin\Debug\net8.0\Assignment 6.4 Matrix Rotation.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\bin\Debug\net8.0\Assignment 6.4 Matrix Rotation.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\bin\Debug\net8.0\Assignment 6.4 Matrix Rotation.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\refint\Assignment 6.4 Matrix Rotation.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\Assignment 6.4 Matrix Rotation.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 6.4 Matrix Rotation\obj\Debug\net8.0\ref\Assignment 6.4 Matrix Rotation.dll
