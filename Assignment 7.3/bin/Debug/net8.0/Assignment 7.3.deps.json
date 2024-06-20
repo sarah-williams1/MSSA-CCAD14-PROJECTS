@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Assignment 7.3/1.0.0": {
+        "dependencies": {
+          "BinaryTree": "5.2.0"
+        },
+        "runtime": {
+          "Assignment 7.3.dll": {}
+        }
+      },
+      "BinaryTree/5.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/BinaryTree.dll": {
+            "assemblyVersion": "5.2.0.0",
+            "fileVersion": "5.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment 7.3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BinaryTree/5.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6c4qJdGrGa7hR1Wex3yJyVHl3g5hQiFuBE9XyFRaqmV2qsoYKwfFdlVAJ49/vp05A0aX21nMKc6eFe57PaIiHQ==",
+      "path": "binarytree/5.2.0",
+      "hashPath": "binarytree.5.2.0.nupkg.sha512"
+    }
+  }
+}

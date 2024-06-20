@@ -1,0 +1,18 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\Assignment 7.3.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\Assignment 7.3.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\Assignment 7.3.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\Assignment 7.3.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\Assignment 7.3.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\bin\Debug\net8.0\BinaryTree.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.csproj.AssemblyReference.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignme.54727E3A.Up2Date
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\refint\Assignment 7.3.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\Assignment 7.3.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 7.3\obj\Debug\net8.0\ref\Assignment 7.3.dll
