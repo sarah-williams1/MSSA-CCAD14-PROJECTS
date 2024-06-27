@@ -1,0 +1,15 @@
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\bin\Debug\net8.0\Assignment 8.1 Quick Sort.exe
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\bin\Debug\net8.0\Assignment 8.1 Quick Sort.deps.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\bin\Debug\net8.0\Assignment 8.1 Quick Sort.runtimeconfig.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\bin\Debug\net8.0\Assignment 8.1 Quick Sort.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\bin\Debug\net8.0\Assignment 8.1 Quick Sort.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.AssemblyInfoInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.AssemblyInfo.cs
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.csproj.CoreCompileInputs.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.sourcelink.json
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\refint\Assignment 8.1 Quick Sort.dll
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.pdb
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\Assignment 8.1 Quick Sort.genruntimeconfig.cache
+C:\Users\swill\OneDrive\MSSA\MSSA-CCAD14-PROJECTS\Assignment 8.1 Quick Sort\obj\Debug\net8.0\ref\Assignment 8.1 Quick Sort.dll
