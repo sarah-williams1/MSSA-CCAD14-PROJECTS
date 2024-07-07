@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LeetCode 88 Array Merger/1.0.0": {
+        "runtime": {
+          "LeetCode 88 Array Merger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetCode 88 Array Merger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
